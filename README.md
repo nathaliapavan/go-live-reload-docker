@@ -1,2 +1,2 @@
-# live-reload-docker
+# go-live-reload-docker
 Live reload para aplicação Go com Docker (CompileDaemon)

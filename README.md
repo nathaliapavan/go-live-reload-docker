@@ -39,6 +39,6 @@ docker-compose up -d
 
 ## Onde Acessar
 
-Depois de iniciar o contêiner Docker, você pode acessar a aplicação em seu navegador através do seguinte URL:
+Depois de iniciar o contêiner Docker, você pode validar a aplicação em seu navegador acessando:
 
 http://localhost:8080
